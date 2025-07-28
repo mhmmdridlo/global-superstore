@@ -7,7 +7,7 @@ Source
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
 
 ## 📝 Dataset Information
-Dataset ini berisi satu file yaitu `sales.csv` dengan `5000 entry data` dan jumlah kolom sebanyak `18 kolom` yang terdiri sebagai berikut:
+Dataset ini berisi satu file yaitu `sales.csv` dengan `9800 entry data` dan jumlah kolom sebanyak `18 kolom` yang terdiri sebagai berikut:
 ```
 - Row ID = nilai unik berupa angka numerik berurutan
 - Order ID = identitas unik setiap pesanan
