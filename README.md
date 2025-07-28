@@ -58,3 +58,13 @@ Dataset ini berisi satu file yaitu `sales.csv` dengan `5000 entry data` dan juml
 
 📌 Detail proses analisis data terdokumentasi dalam notebook python berikut
 [notebook.ipynb](https://github.com/mhmmdridlo/global-superstore/blob/f39e84190b8ca51932563878854bf3c3f19de2c9/notebook.ipynb)
+
+## 📊 Dashboard
+<p align='center'>
+  <img src='/dashboard-visualization.png'/>
+  🖼️ Tampilan Dashboard
+
+
+Hasil analisis ini di deployment ke dashboard dengan menggunakan Tableau melalui link berikut
+
+🔗 https://public.tableau.com/app/profile/muhammad.ridlo6510/viz/SuperstoreSalesVisualization_17537105240250/DashboardSales?publish=yes
